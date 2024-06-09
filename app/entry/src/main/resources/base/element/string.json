@@ -1,0 +1,457 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {"name": "reason",
+      "value": "打开在线地图"
+  },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "重庆大学"
+    },
+    {
+      "name": "bottom_text_map",
+      "value": "报到"
+    },
+    {
+      "name": "bottom_text_zones",
+      "value": "离线地图"
+    },
+    {
+      "name": "bottom_text_zones1",
+      "value": "在线地图"
+    },
+    {
+      "name": "bottom_text_trains",
+      "value": "建筑介绍"
+    },    {
+      "name": "bottom_text_trains1",
+      "value": "我的"
+    },
+    {
+      "name": "skip",
+      "value": "跳过"
+    },
+    {
+      "name": "library",
+      "value": "图书馆"
+    },
+    {
+      "name": "first_teaching_building",
+      "value": "第一教学楼"
+    },
+    {
+      "name": "comprehensive_building",
+      "value": "第一实验楼"
+    },
+    {
+      "name": "bamboo_garden",
+      "value": "竹园"
+    },
+    {
+      "name": "backetball_playground",
+      "value": "篮球场"
+    },
+    {
+      "name": "playground",
+      "value": "操场"
+    },
+    {
+      "name": "lake",
+      "value": "缙湖云湖"
+    },
+    {
+      "name": "north_gate",
+      "value": "北门"
+    },
+    {
+      "name": "likelou",
+      "value": "理科楼"
+    },
+    {
+      "name": "restaurant",
+      "value": "食堂"
+    },
+    {
+      "name": "dormitory",
+      "value": "宿舍"
+    },
+    {
+      "name": "introduction_paragraph_first_a",
+      "value": "重庆大学虎溪校区坐落于重庆市西郊的大学城内，离位于沙坪坝区沙正街的老校区约20公里。校区属浅丘地形，视线开阔，东望歌乐山国家级森林公园，西靠缙云山国家级森林公园，虎溪河沿校区东南边界蜿蜒流过。"
+    },
+    {
+      "name": "introduction_paragraph_second_a",
+      "value": "虎溪校区占地3670亩，其中教学用地2628亩，教职工住宅用地以及学校发展用地1042亩。虎溪校区于2004年12月18日开始动工修建，按照统一规划，分期实施的理念，规划校舍155万平方米、在校生3.5万人，现累计竣工校舍65万平方米，入住学生近18000人（数据截止2019年9月）。 "
+    },
+    {
+      "name": "introduction_paragraph_first_b",
+      "value": "重庆大学虎溪校区坐落于重庆市西郊的大学城内，离位于沙坪坝区沙正街的老校区约20公里。校区属浅丘地形，视线开阔，东望歌乐山国家级森林公园，西靠缙云山国家级森林公园，虎溪河沿校区东南边界蜿蜒流过。"
+    },
+    {
+      "name": "introduction_paragraph_second_b",
+      "value": "虎溪校区占地3670亩，其中教学用地2628亩，教职工住宅用地以及学校发展用地1042亩。虎溪校区于2004年12月18日开始动工修建，按照统一规划，分期实施的理念，规划校舍155万平方米、在校生3.5万人，现累计竣工校舍65万平方米，入住学生近18000人（数据截止2019年9月）。 "
+    },
+    {
+      "name": "introduction_paragraph_first_c",
+      "value": "重庆大学虎溪校区坐落于重庆市西郊的大学城内，离位于沙坪坝区沙正街的老校区约20公里。校区属浅丘地形，视线开阔，东望歌乐山国家级森林公园，西靠缙云山国家级森林公园，虎溪河沿校区东南边界蜿蜒流过。"
+    },
+    {
+      "name": "introduction_paragraph_second_c",
+      "value": "虎溪校区占地3670亩，其中教学用地2628亩，教职工住宅用地以及学校发展用地1042亩。虎溪校区于2004年12月18日开始动工修建，按照统一规划，分期实施的理念，规划校舍155万平方米、在校生3.5万人，现累计竣工校舍65万平方米，入住学生近18000人（数据截止2019年9月）。 "
+    },
+    {
+      "name": "introduction_paragraph_first_d",
+      "value": "重庆大学虎溪校区坐落于重庆市西郊的大学城内，离位于沙坪坝区沙正街的老校区约20公里。校区属浅丘地形，视线开阔，东望歌乐山国家级森林公园，西靠缙云山国家级森林公园，虎溪河沿校区东南边界蜿蜒流过。"
+    },
+    {
+      "name": "introduction_paragraph_second_d",
+      "value": "虎溪校区占地3670亩，其中教学用地2628亩，教职工住宅用地以及学校发展用地1042亩。虎溪校区于2004年12月18日开始动工修建，按照统一规划，分期实施的理念，规划校舍155万平方米、在校生3.5万人，现累计竣工校舍65万平方米，入住学生近18000人（数据截止2019年9月）。 "
+    },
+    {
+      "name": "area_sub_name_a",
+      "value": "追求知识的殿堂"
+    },
+    {
+      "name": "area_sub_name_b",
+      "value": "求知殿堂"
+    },
+    {
+      "name": "area_sub_name_c",
+      "value": "文明交汇之楼"
+    },
+    {
+      "name": "area_sub_name_d",
+      "value": "水天一色"
+    },
+    {
+      "name": "area_sub_name_e",
+      "value": "文明交汇之城"
+    },
+    {
+      "name": "area_sub_name_f",
+      "value": "文化之都，法式浪漫"
+    },
+    {
+      "name": "area_sub_name_g",
+      "value": "最浪漫的小镇"
+    },
+    {
+      "name": "area_sub_name_h",
+      "value": "最美丽的小镇"
+    },
+    {
+      "name": "area_sub_name_j",
+      "value": "意大利中世纪小城"
+    },
+    {
+      "name": "area_sub_name_k",
+      "value": "葡萄酒圣地"
+    },
+    {
+      "name": "area_sub_name_l",
+      "value": "历史悠久的文化名城"
+    },
+    {
+      "name": "area_sub_name_m",
+      "value": "意大利柱廊之城"
+    },
+    {
+      "name": "area_name_a",
+      "value": "第一教学楼"
+    },
+    {
+      "name": "area_name_b",
+      "value": "综合楼"
+    },
+    {
+      "name": "area_name_c",
+      "value": "图书馆"
+    },
+    {
+      "name": "area_name_d",
+      "value": "缙湖云湖"
+    },
+    {
+      "name": "area_name_e",
+      "value": "E区格拉纳达"
+    },
+    {
+      "name": "area_name_f",
+      "value": "F区巴黎"
+    },
+    {
+      "name": "area_name_g",
+      "value": "G区维罗纳"
+    },
+    {
+      "name": "area_name_h",
+      "value": "H区科伦洛夫"
+    },
+    {
+      "name": "area_name_j",
+      "value": "J区弗里堡"
+    },
+    {
+      "name": "area_name_k",
+      "value": "K区勃艮第"
+    },
+    {
+      "name": "area_name_l",
+      "value": "L区海德尔堡"
+    },
+    {
+      "name": "area_name_m",
+      "value": "M区博洛尼亚"
+    },
+    {
+      "name": "create_year_2015",
+      "value": "始建于2005年"
+    },
+    {
+      "name": "build_information_a",
+      "value": "虎溪校区主教学楼，建筑面积3.5万平方米，有161间多媒体教室。"
+    },
+    {
+      "name": "build_information_b",
+      "value": "综合楼由于设计体系新颖、技术运用先进，已经被中国土木工程学会颁发了“詹天佑大奖”，该奖也是中国土木工程设立的最大奖项。还获得了“鲁班奖”、国家级科技示范工程称号。"
+    },
+    {
+      "name": "build_information_c",
+      "value": "图书馆、艺术楼与第一教学楼、第一实验楼隔湖相望。云湖湖心音乐喷泉水柱可达40米高，平时上午、下午各开一次，节日则全天开启。"
+    },
+    {
+      "name": "build_information_d",
+      "value": " 缙湖和云湖之名，源自校区紧邻的缙云山，“湖映山，山水相依相融”之意。湖水澄静，廊桥曲栏，每日清晨，柳树下诵读的学子身影与湖水构成虎溪最美丽的风景。"
+    },
+    {
+      "name": "build_information_e",
+      "value": "E区总建筑面积达107637m2，其中地上建筑面积65625m2，地下建筑面积42011m2，定位为研发办公楼，设计容纳人数2343人，地下停车位694个，地上停车位50个，车位比例达32%。"
+    },
+    {
+      "name": "build_information_f",
+      "value": "F区总建筑面积达118944m2，其中地上建筑面积63134m2，地下建筑面积55810m2，定位为行政中心，设计容纳人数2255人，地下停车位786个，地上停车位0个，车位比例达34.9%。"
+    },
+    {
+      "name": "build_information_g",
+      "value": "G区总建筑面积达120231m2，其中地上建筑面积61718m2，地下建筑面积58513m2，定位为研发办公楼，设计容纳人数2204人，车位比例达43.6%。"
+    },
+    {
+      "name": "build_information_h",
+      "value": "H区总建筑面积达120231m2，其中地上建筑面积61718m2，地下建筑面积58513m2，定位为研发办公楼，设计容纳人数2204人，车位比例达43.6%。"
+    },
+    {
+      "name": "build_information_j",
+      "value": "J区总建筑面积达90907m2，其中地上建筑面积50007m2，地下建筑面积40899m2，定位为行政中心，设计容纳人数1786人，地下停车位636个，地上停车位7个，车位比例达36%。"
+    },
+    {
+      "name": "build_information_k",
+      "value": "K区总建筑面积达99828m2，其中地上建筑面积38187m2，地下建筑面积61641m2，定位为研发办公楼，设计容纳人数1364人，地下停车位1061个，地上停车位7个，车位比例达77.8%。"
+    },
+    {
+      "name": "build_information_l",
+      "value": "L区总建筑面积达123823m2，其中地上建筑面积58934m2，地下建筑面积64890m2，定位为研发办公楼，设计容纳人数2105人，地下停车位1213个，地上停车位0个，车位比例达57.6%。"
+    },
+    {
+      "name": "build_information_m",
+      "value": "M区总建筑面积达112133m2，其中地上建筑面积70672m2，地下建筑面积41461m2，定位为研发办公楼，设计容纳人数2524人，地下停车位679个，地上停车位0个，车位比例达26.9%。"
+    },
+    {
+      "name": "line",
+      "value": "%s号线路"
+    },
+    {
+      "name": "in_operation",
+      "value": "(运营中)"
+    },
+    {
+      "name": "non_operational",
+      "value": "(非运营)"
+    },
+    {
+      "name": "train_interval",
+      "value": "约%s分钟/趟"
+    },
+    {
+      "name": "Helvetica",
+      "value": "Helvetica"
+    },
+    {
+      "name": "PingFangSC_Regular",
+      "value": "PingFangSC-Regular"
+    },
+    {
+      "name": "mine_personal_data",
+      "value": "个人资料"
+    },
+    {
+      "name": "mine_check_updates",
+      "value": "检查更新"
+    },
+    {
+      "name": "mine_about",
+      "value": "关于"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "empty",
+      "value": "empty"
+    },    {
+      "name": "agencyNoTask",
+      "value": "Go to Healthy Living to add tasks"
+    },    {
+      "name": "no_task",
+      "value": "暂无任务，请添加任务"
+    },    {
+      "name": "task_list",
+      "value": "任务列表"
+    },    {
+      "name": "alert",
+      "value": "警告"
+    },
+    {
+      "name": "alert_message",
+      "value": "您的系统日期早于最新的打卡时间！"
+    },    {
+      "name": "alert_button",
+      "value": "退出"
+    },    {
+      "name": "HarmonyHeiTi",
+      "value": "HarmonyHeiTi"
+    },    {
+      "name": "task_done",
+      "value": "已完成"
+    },   {
+      "name": "HarmonyHeiTi_Bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "HarmonyHeiTi_Medium",
+      "value": "HarmonyHeiTi-Medium"
+    },    {
+      "name": "clock_in",
+      "value": "打卡"
+    },
+    {
+      "name": "got_it",
+      "value": "知道了"
+    },    {
+      "name": "task_achievement_level",
+      "value": "连续%d天达成"
+    },  {
+      "name": "task_morning",
+      "value": "早起"
+    },
+    {
+      "name": "task_apple",
+      "value": "吃苹果"
+    },    {
+      "name": "set_your_frequency",
+      "value": "请设置您的频率"
+    },
+    {
+      "name": "target_progress",
+      "value": "重庆大学欢迎新同学"
+    },
+    {
+      "name": "privacy_title",
+      "value": "请在“重大迎新”权限管理中开启“XX”权限"
+    },
+    {
+      "name": "privacy_desc",
+      "value": "该功能支持XX…（功能介绍）"
+    },    {
+      "name": "sure",
+      "value": "确定"
+    },
+    { "name": "jump_ad",
+      "value": "跳过广告"
+    },
+    {
+      "name": "task_water",
+      "value": "喝水"
+    },
+    {
+      "name": "task_smile",
+      "value": "每日微笑"
+    },
+    {
+      "name": "task_brush",
+      "value": "每日刷牙"
+    },
+    {
+      "name": "task_night",
+      "value": "早睡"
+    },    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },    {
+      "name": "already_open",
+      "value": "已开启"
+    },
+    {
+      "name": "complete",
+      "value": "完成"
+    },
+    {
+      "name": "target_setting",
+      "value": "目标设置"
+    },
+    {
+      "name": "open_reminder",
+      "value": "开启提醒"
+    },
+    {
+      "name": "remind_time",
+      "value": "提醒时间"
+    },
+    {
+      "name": "frequency",
+      "value": "提醒频率"
+    },    {
+      "name": "pay_text",
+      "value": "支出"
+    },
+    {
+      "name": "income_text",
+      "value": "收入"
+    },
+    {
+      "name": "count_text",
+      "value": "金额"
+    },
+    {
+      "name": "note_text",
+      "value": "备注"
+    },
+    {
+      "name": "input_text",
+      "value": "请输入金额"
+    },
+    {
+      "name": "input_note_text",
+      "value": "请输入备注（可选）"
+    },
+    {
+      "name": "confirm_text",
+      "value": "确定"
+    }
+  ]
+}
